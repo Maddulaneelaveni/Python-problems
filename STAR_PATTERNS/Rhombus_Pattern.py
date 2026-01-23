@@ -8,3 +8,13 @@ for i in range(0, num):
     print()
 
 
+# Rhombus Star Pattern
+#     *****
+#    *****    
+#   *****
+#  *****
+# *****
+ 
+n = 5
+for i in range(n):
+    print(" " * (n - i - 1) + "*" * n)
