@@ -15,6 +15,3 @@ for i in range(0, num):
 #  *****
 # *****
  
-n = 5
-for i in range(n):
-    print(" " * (n - i - 1) + "*" * n)
