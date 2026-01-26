@@ -16,3 +16,11 @@ for i in range(rows):
 
 
 # Another way to print Rectangle Pattern
+
+rows = 4
+cols = 6
+
+for i in range(rows):
+    print("*" * cols)
+    print()
+    
