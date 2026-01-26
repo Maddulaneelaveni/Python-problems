@@ -14,3 +14,5 @@ for i in range(rows):
         print("*", end="")
     print()
 
+
+# Another way to print Rectangle Pattern
