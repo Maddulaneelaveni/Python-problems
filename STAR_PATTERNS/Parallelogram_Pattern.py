@@ -1,1 +1,5 @@
 # Parallelogram Pattern
+#     *****
+#    *****
+#   *****
+#  *****
