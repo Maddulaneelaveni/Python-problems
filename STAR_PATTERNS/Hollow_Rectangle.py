@@ -1,0 +1,6 @@
+# Hollow Rectangle Pattern
+# *********
+# *       *
+# *       *
+# *       *
+# *********
