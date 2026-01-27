@@ -14,3 +14,5 @@ for i in range(rows):
         else:
             print(" ", end="")
     print() 
+
+# Another way to print Hollow Rectangle Pattern
