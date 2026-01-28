@@ -1,0 +1,1 @@
+# Mirrored star rhombus pattern
