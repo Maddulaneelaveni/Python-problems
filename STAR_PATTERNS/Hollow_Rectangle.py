@@ -16,3 +16,10 @@ for i in range(rows):
     print() 
 
 # Another way to print Hollow Rectangle Pattern
+rows = 5
+cols = 9
+for i in range(rows):
+    if i == 0 or i == rows - 1:
+        print("*" * cols)
+    else:
+        print("*" + " " * (cols - 2) + "*")
