@@ -1,1 +1,6 @@
 # Inverted Pyramid Star Pattern
+# *********
+#  *******
+#   *****
+#    ***
+#     *
