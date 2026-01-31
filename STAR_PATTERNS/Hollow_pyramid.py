@@ -1,0 +1,6 @@
+# Hallow pyramid pattern
+#     *
+#   * *
+#  *   *
+# *     *
+#*********
